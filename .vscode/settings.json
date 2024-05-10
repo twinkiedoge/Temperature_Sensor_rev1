@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"adc.h": "c",
+		"freertos.h": "c",
+		"thermistor.h": "c",
+		"minimal_wifi.h": "c",
+		"i2c.h": "c",
+		"nvs_flash.h": "c",
+		"task.h": "c"
+	}
+}
